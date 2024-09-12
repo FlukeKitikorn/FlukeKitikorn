@@ -1,14 +1,13 @@
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kitikorn Khanthasen
 ===========================================================================================================================================
+<h4 align="left">I’m a student at Thai-Nichi Institute of Technology with a keen interest in DevOps, DevSecOps <br>and the latest cloud and automation technologies. Let's connect and grow in the tech world together!</h4>
 
-Student
--------
+- 🎓 I’m currently studying **Computer Engineering and Artificial Intelligence.**
 
-* 🌍  I'm based in Bangkok
-* 🧠  I'm learning CSS , Java , C , C++ , Python
+- 🌱 I’m currently learning **DevOps, DevSecOps, MLOps, Cyber Security etc.**
 
-
+[![](https://visitcount.itsvg.in/api?id=FlukeKitikorn&icon=5&color=12)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/foilk.onnut) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/k_tikorn_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/kitikorn-khanthasen-341530322) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16383388) 
 
@@ -21,8 +20,5 @@ Student
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=FlukeKitikorn&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=FlukeKitikorn&icon=5&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
