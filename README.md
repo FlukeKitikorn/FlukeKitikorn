@@ -7,6 +7,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 - 🌱 I’m currently learning **DevOps, DevSecOps, CI/CD etc.**
 
+- 🖥️ See my portfolio at [kitikorn.netlify.app](https://kitikorn.netlify.app/)
+
 [![](https://visitcount.itsvg.in/api?id=FlukeKitikorn&icon=5&color=12)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:kkitikorn.12@gmail.com)
@@ -16,13 +18,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=md,html,css,js,ts,py,php,java,c,cpp,bootstrap,tailwind,materialui,react,nextjs,nodejs,express,flask,fastapi,mysql,postgres,sqlite,mongodb,git,github,gitlab,githubactions,nginx,docker,netlify,vercel,ubuntu,kali,bash,vim,anaconda,vite,postman,grafana,vscode,arduino)](https://skillicons.dev)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=FlukeKitikorn&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=FlukeKitikorn&theme=vue-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FlukeKitikorn&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+## 📊 GitHub Stats
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=FlukeKitikorn&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FlukeKitikorn&theme=transparent" width="98%" />
+</div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FlukeKitikorn&theme=transparent" width="49%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FlukeKitikorn&theme=transparent" width="49%" />
+</div>
 
 # 📄 Certifications:
 - [Docker for the Absolute Beginner-Hands On-Devops](link-to-certificate) - Udemy, 2025
