@@ -14,7 +14,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16383388) 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=md,html,css,js,ts,py,php,java,c,cpp,bootstrap,tailwind,materialui,react,nextjs,nodejs,express,flask,fastapi, mysql,postgres,sqlite,mongodb,git,github,gitlab,githubactions,nginx,docker,netlify,vercel, ubuntu,kali,bash,vim,anaconda,vite,postman,grafana,vscode,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=md,html,css,js,ts,py,php,java,c,cpp,bootstrap,tailwind,materialui,react,nextjs,nodejs,express,flask,fastapi,mysql,postgres,sqlite,mongodb,git,github,gitlab,githubactions,nginx,docker,netlify,vercel,ubuntu,kali,bash,vim,anaconda,vite,postman,grafana,vscode,arduino)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=FlukeKitikorn&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=true)
